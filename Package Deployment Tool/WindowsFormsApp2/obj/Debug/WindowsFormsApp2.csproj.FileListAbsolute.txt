@@ -1,0 +1,22 @@
+c:\users\prolim\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+c:\users\prolim\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+c:\users\prolim\documents\visual studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Prolim\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Deployment.exe.config
+C:\Users\Prolim\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Deployment.exe
+C:\Users\Prolim\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Deployment.pdb
+C:\Users\Prolim\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Deployment.Properties.Resources.resources
+C:\Users\Prolim\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Deployment.exe
+C:\Users\Prolim\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Deployment.pdb
+D:\Chaitanya\Offical\Personal Projects\VS Projects for Test\Deployment Project\WindowsFormsApp2\bin\Debug\Deployment.exe.config
+D:\Chaitanya\Offical\Personal Projects\VS Projects for Test\Deployment Project\WindowsFormsApp2\bin\Debug\Deployment.exe
+D:\Chaitanya\Offical\Personal Projects\VS Projects for Test\Deployment Project\WindowsFormsApp2\bin\Debug\Deployment.pdb
+D:\Chaitanya\Offical\Personal Projects\VS Projects for Test\Deployment Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\Chaitanya\Offical\Personal Projects\VS Projects for Test\Deployment Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\Chaitanya\Offical\Personal Projects\VS Projects for Test\Deployment Project\WindowsFormsApp2\obj\Debug\Deployment.Properties.Resources.resources
+D:\Chaitanya\Offical\Personal Projects\VS Projects for Test\Deployment Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+D:\Chaitanya\Offical\Personal Projects\VS Projects for Test\Deployment Project\WindowsFormsApp2\obj\Debug\Deployment.exe
+D:\Chaitanya\Offical\Personal Projects\VS Projects for Test\Deployment Project\WindowsFormsApp2\obj\Debug\Deployment.pdb
+D:\Chaitanya\Offical\Personal Projects\VS Projects for Test\Deployment Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Chaitanya\Offical\Personal Projects\VS Projects for Test\Deployment Project\WindowsFormsApp2\bin\Debug\Deployment.exe.config
+C:\Chaitanya\Offical\Personal Projects\VS Projects for Test\Deployment Project\WindowsFormsApp2\obj\Debug\Deployment.exe
+C:\Chaitanya\Offical\Personal Projects\VS Projects for Test\Deployment Project\WindowsFormsApp2\obj\Debug\Deployment.pdb
